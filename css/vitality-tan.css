@@ -94,7 +94,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 body {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Glegoo", serif, "Open Sans", sans-serif "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 300;
 }
@@ -1187,3 +1187,6 @@ body.vintage .about-carousel .owl-controls .owl-next,
 body.vintage .testimonials .owl-controls .owl-next {
   line-height: 55px !important;
 }
+
+
+/* * { background-color: rgba(233, 23, 221, 0.1); } */ 
