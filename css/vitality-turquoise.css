@@ -1181,6 +1181,10 @@ body.vintage .testimonials .testimonial-author .name {
   font-weight: 400 !important;
   text-transform: uppercase !important;
 }
+
+.footagraphy{
+ font-color: #fff
+}
 body.vintage .about-carousel .owl-controls .owl-prev,
 body.vintage .testimonials .owl-controls .owl-prev,
 body.vintage .about-carousel .owl-controls .owl-next,
