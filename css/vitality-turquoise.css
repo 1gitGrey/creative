@@ -1047,6 +1047,8 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e1e1e1;
 }
 footer.footer {
+  font-size: 55px;
+  font-weight: 900;
   color: rgba(255, 255, 255, 0.7);
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
